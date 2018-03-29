@@ -17,6 +17,7 @@ Quarterly reports will be published on the progress of Beta toward Master Develo
 ##### Residences (River Valley)
 
 TODO: Pamela
+Short rentals are not legal in Panama unless it is under the tourism law like hotels and hostals. Any stay less than 6 months is consider a short rental and they are supposed to stay in hotels not apartents. Law 93, article 10th indicates that the lease agreement extension agreed is mandatory to the LESSOR but waivable to the LESSEE. Therefore, we can do a six months rental agreement adding this article stating that with 30 days written notification you can vacate the apartment without penalty. 
 
 For River Valley apartments we have the following options:
 1. **Two bedrooms**    **$1,300.00**   **Furnished**
