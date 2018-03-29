@@ -18,6 +18,40 @@ Quarterly reports will be published on the progress of Beta toward Master Develo
 
 TODO: Pamela
 
+For River Valley apartments we have the following options:
+1. **Two bedrooms**    **$1,300.00**   **Furnished**
+    * 100 m2
+    * 1 bathroom
+    * Parking space
+    * Top floor
+    * Link for pictures: [http://www.compreoalquile.com/propiedades/amoblado-de-2-recamaras-en-river-valley-panama-52382794.html]
+    
+2. **Two bedrooms**   **$1,300.00**   **Furnished**
+    * 129 m2
+    * 2 bathrooms
+    * 2 Parking spaces
+    * Top floor w/terrace
+    * Link for pictures [https://www.encuentra24.com/panama-en/real-estate-for-rent-apartments/alquilo-hermoso-ap-penthouse-river-valley-piso-6-amoblado-ganga/11582732]
+    
+3. **Three bedrooms**   **$2,000.00**   **Unfurnished**
+    * 190 m2
+    * 2.5 bathrooms
+    * 2 Parking spaces
+    * Maid's quarter
+    * Kitchen appliances, A/C and rollers shades
+    * Link for pictures [https://www.encuentra24.com/panama-en/real-estate-for-rent-apartments/se-vende-o-alquila-apartamento-a-estrenar-en-river-valley/11708340?regionslug=prov-panama-arraijan-panama-pacifico]
+    
+4. **House for rent or sale**   **Rent $1,800.00**   **Sale $380,000.00**
+    * Gated community
+    * Stainless steel appliances
+    * Maid's quarters
+    * 2 car garage
+    * Covered terrace
+    * Small yard
+    * Link for pictures [https://www.panamarealtor.com/property/5493]
+    
+    
+
 ##### Offices
 
 TODO: Pamela
